@@ -52,9 +52,3 @@ The **Super Store Sales Dashboard** transforms raw sales data into valuable busi
 By visualizing sales patterns, profit drivers, and customer behaviors, it empowers decision-makers to **optimize marketing efforts, improve logistics, and enhance revenue strategies**.
 
 ---
-
-## 👩‍💻 Author
-**Priyanshi Jagati**  
-Data Analytics Enthusiast | Frontend Developer  
-📧 [Email Placeholder]  
-🔗 [Portfolio/LinkedIn Placeholder]
